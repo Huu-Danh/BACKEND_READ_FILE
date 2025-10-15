@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "BACKEND_READ_FILE.Controllers.ParseController",
+    "Method": "ParseByPath",
+    "RelativePath": "api/Parse/by-path",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "BACKEND_READ_FILE.Models.ParsePathRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BACKEND_READ_FILE.Controllers.ParseController",
+    "Method": "Upload",
+    "RelativePath": "api/Parse/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

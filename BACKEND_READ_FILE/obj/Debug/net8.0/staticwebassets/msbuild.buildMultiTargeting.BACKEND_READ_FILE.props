@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BACKEND_READ_FILE.props" />
+</Project>

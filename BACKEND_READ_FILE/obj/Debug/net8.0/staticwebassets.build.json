@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sED2xMujHEOHJLY11MJt21oEywJZYiJ1H3AjqT57Ir0=",
+  "Source": "BACKEND_READ_FILE",
+  "BasePath": "_content/BACKEND_READ_FILE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
