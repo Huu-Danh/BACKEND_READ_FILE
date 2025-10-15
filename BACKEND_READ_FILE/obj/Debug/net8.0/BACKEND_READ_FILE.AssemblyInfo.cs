@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BACKEND_READ_FILE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5371f25ca13ba8a0a97feb24e26d83f317c39e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("BACKEND_READ_FILE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BACKEND_READ_FILE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
