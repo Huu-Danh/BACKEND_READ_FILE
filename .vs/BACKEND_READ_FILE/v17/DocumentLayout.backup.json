@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -42,47 +42,7 @@
               "RelativeToolTip": "BACKEND_READ_FILE\\Services\\WordParserService.cs",
               "ViewState": "AgIAAHUAAAAAAAAAAAAAAGYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T07:53:35.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IWordParserService.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\BACKEND_READ_FILE\\BACKEND_READ_FILE\\Services\\IWordParserService.cs",
-              "RelativeDocumentMoniker": "BACKEND_READ_FILE\\Services\\IWordParserService.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\BACKEND_READ_FILE\\BACKEND_READ_FILE\\Services\\IWordParserService.cs",
-              "RelativeToolTip": "BACKEND_READ_FILE\\Services\\IWordParserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T07:53:27.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TicketModels.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\BACKEND_READ_FILE\\BACKEND_READ_FILE\\Models\\TicketModels.cs",
-              "RelativeDocumentMoniker": "BACKEND_READ_FILE\\Models\\TicketModels.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\BACKEND_READ_FILE\\BACKEND_READ_FILE\\Models\\TicketModels.cs",
-              "RelativeToolTip": "BACKEND_READ_FILE\\Models\\TicketModels.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T07:53:10.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ParseController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\BACKEND_READ_FILE\\BACKEND_READ_FILE\\Controllers\\ParseController.cs",
-              "RelativeDocumentMoniker": "BACKEND_READ_FILE\\Controllers\\ParseController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\BACKEND_READ_FILE\\BACKEND_READ_FILE\\Controllers\\ParseController.cs",
-              "RelativeToolTip": "BACKEND_READ_FILE\\Controllers\\ParseController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T07:53:02.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T07:53:35.33Z"
             },
             {
               "$type": "Document",
@@ -96,6 +56,42 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T07:24:01.692Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IWordParserService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\BACKEND_READ_FILE\\BACKEND_READ_FILE\\Services\\IWordParserService.cs",
+              "RelativeDocumentMoniker": "BACKEND_READ_FILE\\Services\\IWordParserService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\BACKEND_READ_FILE\\BACKEND_READ_FILE\\Services\\IWordParserService.cs",
+              "RelativeToolTip": "BACKEND_READ_FILE\\Services\\IWordParserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T07:53:27.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketModels.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\BACKEND_READ_FILE\\BACKEND_READ_FILE\\Models\\TicketModels.cs",
+              "RelativeDocumentMoniker": "BACKEND_READ_FILE\\Models\\TicketModels.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\BACKEND_READ_FILE\\BACKEND_READ_FILE\\Models\\TicketModels.cs",
+              "RelativeToolTip": "BACKEND_READ_FILE\\Models\\TicketModels.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T07:53:10.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParseController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\BACKEND_READ_FILE\\BACKEND_READ_FILE\\Controllers\\ParseController.cs",
+              "RelativeDocumentMoniker": "BACKEND_READ_FILE\\Controllers\\ParseController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\BACKEND_READ_FILE\\BACKEND_READ_FILE\\Controllers\\ParseController.cs",
+              "RelativeToolTip": "BACKEND_READ_FILE\\Controllers\\ParseController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T07:53:02.266Z"
             }
           ]
         }

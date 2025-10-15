@@ -162,20 +162,6 @@ dotnet run
 
 ## 🧪 Ví dụ gọi API từ React (frontend)
 
-```javascript
-import axios from "axios";
-
-const formData = new FormData();
-formData.append("file", selectedFile);
-
-axios
-  .post("https://localhost:7053/api/parse/upload", formData, {
-    headers: { "Content-Type": "multipart/form-data" },
-  })
-  .then((res) => console.log("Kết quả:", res.data))
-  .catch((err) => console.error(err));
-```
-
 > 💡 Cần bật CORS trong backend:
 >
 > ```csharp
@@ -208,10 +194,8 @@ axios
 ## 👤 Tác giả
 
 **Nguyễn Tấn Hữu Danh**  
-💼 _Backend Developer / IT Enthusiast_  
+💼 _Backend Developer_  
 📧 *your.nguyentanhuudanh@gmail.com*  
 🌐 _GitHub:_ [github.com/Huu-Danh](https://github.com/Huu-Danh)
-
----
 
 >

@@ -30,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\BACKEND_READ_FILE\\BACKEND_READ_FILE\\Program.cs",
+              "RelativeDocumentMoniker": "BACKEND_READ_FILE\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\BACKEND_READ_FILE\\BACKEND_READ_FILE\\Program.cs",
+              "RelativeToolTip": "BACKEND_READ_FILE\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T07:24:01.692Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -43,19 +56,6 @@
               "ViewState": "AgIAAHUAAAAAAAAAAAAAAGYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T07:53:35.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\BACKEND_READ_FILE\\BACKEND_READ_FILE\\Program.cs",
-              "RelativeDocumentMoniker": "BACKEND_READ_FILE\\Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\BACKEND_READ_FILE\\BACKEND_READ_FILE\\Program.cs",
-              "RelativeToolTip": "BACKEND_READ_FILE\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T07:24:01.692Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
